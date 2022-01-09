@@ -32,7 +32,7 @@ from common import Sketcher
 # object within an image by masking it.
  
 # Define the file name of the image
-INPUT_IMAGE = "fruits.jpg"
+INPUT_IMAGE = "sky.jpg"
 IMAGE_NAME = INPUT_IMAGE[:INPUT_IMAGE.index(".")]
 OUTPUT_IMAGE = IMAGE_NAME + "_output.jpg"
 TABLE_IMAGE = IMAGE_NAME + "_table.jpg"
